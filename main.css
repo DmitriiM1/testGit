@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0 auto;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+main {
+    background-color: bisque;
+}
+
+footer {
+    background-color: black;
+}
